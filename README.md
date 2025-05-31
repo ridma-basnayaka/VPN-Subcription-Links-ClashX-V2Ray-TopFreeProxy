@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/banner.png" alt="VPN for China Banner" style="width:100%; max-width:900px;">
+  <img src="https://github.com/ridma-basnayaka/VPN-Subcription-Links-ClashX-V2Ray-TopFreeProxy/blob/main/banner.png" alt="VPN for China Banner" style="width:100%; max-width:900px;">
 </p>
 
 # VPN-Subcription-Links-ClashX-V2Ray-TopFreeProxy
