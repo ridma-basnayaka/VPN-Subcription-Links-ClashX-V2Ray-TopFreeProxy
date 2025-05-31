@@ -166,5 +166,3 @@ Big thanks to the amazing contributors and node providers:
 `free clash vpn`, `premium proxy 2025`, `clashx setup guide`, `vpn with unlimited devices`, `netflix vpn china`, `best vpn for mac`, `v2ray subscription 2025`, `unlock chatgpt vpn`, `no limit vpn`, `cutecloud vpn`, `fastcat ikuaimao`, `shadowrocket vpn`, `vpn for streaming 2025`
 
 ---
-
-Would you like this formatted as a `README.md` file so you can directly upload it to GitHub?
